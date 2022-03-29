@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ravi",
+      "address": "KPM",
+      "email": "ravi@gmail.com",
+      "contact": "9876543210"
+    },
+    {
+      "id": 3,
+      "name": "Ravi3",
+      "address": "KPM",
+      "email": "ravi@gmail.com",
+      "contact": "9876543210"
+    },
+    {
+      "name": "Raviraj",
+      "email": "ravi@raj.com",
+      "contact": "9876543210",
+      "address": "kpm",
+      "id": 4
+    },
+    {
+      "name": "New ravi",
+      "email": "rav@gmail.com",
+      "contact": "new",
+      "address": "new",
+      "id": 5
+    },
+    {
+      "name": "Donyathi",
+      "email": "ravi@donyathi",
+      "contact": "9876543210",
+      "address": "Bangalore",
+      "id": 6
+    }
+  ]
+}
